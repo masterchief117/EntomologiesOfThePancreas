@@ -6,13 +6,13 @@ using BaseBallClub.UserFactory;
 
 namespace RainDawgs.Models
 {
-    public class Admin : UserFactory
+    public class HRManager : UserFactory
     {
-
     }
-
-    public class SuperAdmin : UserFactory
+    public class RegionalManager : UserFactory
     {
-
+    }
+    public class StoreManager : UserFactory
+    {
     }
 }

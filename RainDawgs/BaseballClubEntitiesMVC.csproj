@@ -169,7 +169,8 @@
     </Compile>
     <Compile Include="Models\AccountModels.cs" />
     <Compile Include="Models\Admin.cs" />
-    <Compile Include="Models\Interface.cs" />
+    <Compile Include="Models\UserFactory.cs" />
+    <Compile Include="Models\Manager.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
