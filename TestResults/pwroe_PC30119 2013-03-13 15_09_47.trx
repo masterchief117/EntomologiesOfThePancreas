@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="7e7cf7da-a232-4518-b3c2-b51a07a99fb9" name="pwroe@PC30119 2013-03-13 15:09:47" runUser="CATALYSTSOLVES\pwroe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="8d3ce0c9-f2b2-4495-af00-421141b7e372">
+    <Deployment runDeploymentRoot="pwroe_PC30119 2013-03-13 15_09_47">
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\WebMatrix.Data.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.Optimization.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\Microsoft.Web.WebPages.OAuth.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.WebRequest.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebGrease.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC\bin\BaseballCardsMVC.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.Core.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\WebMatrix.WebData.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-13T15:09:47.0167801-07:00" queuing="2013-03-13T15:09:47.5495801-07:00" start="2013-03-13T15:09:47.5651801-07:00" finish="2013-03-13T15:09:49.3195801-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC30119" outcome="Warning" timestamp="2013-03-13T15:09:47.5495801-07:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'log4net' directly or indirectly referenced by the test container 'c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll' was not found.</Text>
+      </RunInfo>
+      <RunInfo computerName="PC30119" outcome="Warning" timestamp="2013-03-13T15:09:47.5495801-07:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'Org.Mentalis.Security.Cryptography' directly or indirectly referenced by the test container 'c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll' was not found.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="HomeControllerConstructorTest" storage="c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll" id="9d9988e1-fae6-6a8b-94e2-b5974d57d781">
+      <Execution id="5784efa1-1475-4b13-9fc3-2f2c46c0666e" />
+      <TestMethod codeBase="C:/Users/pwroe/Documents/GitHub/EntomologiesOfThePancreas/BaseballCardsMVC.Tests/bin/Debug/BaseballCardsMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BaseballCardsMVC.Tests.HomeControllerTest, BaseballCardsMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="HomeControllerConstructorTest" />
+      <AspNet webSiteUrl="http://localhost:51821/">
+        <Host pathToWebApp="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC" webAppRoot="/" />
+      </AspNet>
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="9d9988e1-fae6-6a8b-94e2-b5974d57d781" executionId="5784efa1-1475-4b13-9fc3-2f2c46c0666e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5784efa1-1475-4b13-9fc3-2f2c46c0666e" testId="9d9988e1-fae6-6a8b-94e2-b5974d57d781" testName="HomeControllerConstructorTest" computerName="PC30119" startTime="2013-03-13T15:09:47.5807801-07:00" endTime="2013-03-13T15:09:49.2727801-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5784efa1-1475-4b13-9fc3-2f2c46c0666e">
+      <Output>
+        <ErrorInfo>
+          <Message>The Web request 'http://localhost:51821/' completed successfully without running the test. This can occur when configuring the Web application for testing fails (an ASP.NET server error occurs when processing the request), or when no ASP.NET page is executed (the URL may point to an HTML page, a Web service, or a directory listing). Running tests in ASP.NET requires the URL to resolve to an ASP.NET page and for the page to execute properly up to the Load event. The response from the request is stored in the file 'WebRequestResponse_HomeControllerConstr.html' with the test results; typically this file can be opened with a Web browser to view its contents.</Message>
+        </ErrorInfo>
+      </Output>
+      <ResultFiles>
+        <ResultFile path="PC30119\WebRequestResponse_HomeControllerConstr.html" />
+      </ResultFiles>
+    </UnitTestResult>
+  </Results>
+</TestRun>

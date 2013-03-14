@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="daf5caf0-0723-47aa-bfe6-b27e607cf1ff" name="pwroe@PC30119 2013-03-13 15:25:04" runUser="CATALYSTSOLVES\pwroe" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="497fc002-75e4-43c4-9037-84a259de2c45">
+    <Deployment runDeploymentRoot="pwroe_PC30119 2013-03-13 15_25_04">
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\WebMatrix.Data.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Deployment.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\EntityFramework.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\Antlr3.Runtime.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.Optimization.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.Razor.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.Core.4.0.20710.0\lib\net40\System.Web.Http.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Newtonsoft.Json.4.5.6\lib\net40\Newtonsoft.Json.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\Microsoft.Web.WebPages.OAuth.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.WebRequest.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebGrease.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.Razor.2.0.20710.0\lib\net40\System.Web.Razor.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC\bin\BaseballCardsMVC.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.WebPages.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebPages.2.0.20710.0\lib\net40\System.Web.Helpers.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.WebHost.4.0.20710.0\lib\net40\System.Web.Http.WebHost.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.Mvc.4.0.20710.0\lib\net40\System.Web.Mvc.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.Core.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.Net.Http.2.0.20710.0\lib\net40\System.Net.Http.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll" />
+      <DeploymentItem filename="C:\Program Files (x86)\Microsoft ASP.NET\ASP.NET Web Pages\v2.0\Assemblies\WebMatrix.WebData.dll" />
+      <DeploymentItem filename="C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\packages\Microsoft.AspNet.WebApi.Client.4.0.20710.0\lib\net40\System.Net.Http.Formatting.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2013-03-13T15:25:04.3199801-07:00" queuing="2013-03-13T15:25:04.7235801-07:00" start="2013-03-13T15:25:04.8795801-07:00" finish="2013-03-13T15:25:05.4723801-07:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="PC30119" outcome="Warning" timestamp="2013-03-13T15:25:04.7235801-07:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'log4net' directly or indirectly referenced by the test container 'c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll' was not found.</Text>
+      </RunInfo>
+      <RunInfo computerName="PC30119" outcome="Warning" timestamp="2013-03-13T15:25:04.7235801-07:00">
+        <Text>Warning: Test Run deployment issue: The assembly or module 'Org.Mentalis.Security.Cryptography' directly or indirectly referenced by the test container 'c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll' was not found.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="c:\users\pwroe\documents\github\entomologiesofthepancreas\baseballcardsmvc.tests\bin\debug\baseballcardsmvc.tests.dll" id="c6becee7-67d7-91e6-7adf-a05416556955">
+      <Execution id="5466f1c4-6954-41cb-b131-963cee1a5600" />
+      <TestMethod codeBase="C:/Users/pwroe/Documents/GitHub/EntomologiesOfThePancreas/BaseballCardsMVC.Tests/bin/Debug/BaseballCardsMVC.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="BaseballCardsMVC.Tests.UnitTest1, BaseballCardsMVC.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="c6becee7-67d7-91e6-7adf-a05416556955" executionId="5466f1c4-6954-41cb-b131-963cee1a5600" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="5466f1c4-6954-41cb-b131-963cee1a5600" testId="c6becee7-67d7-91e6-7adf-a05416556955" testName="TestMethod1" computerName="PC30119" duration="00:00:00.0904887" startTime="2013-03-13T15:25:05.0511801-07:00" endTime="2013-03-13T15:25:05.3475801-07:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5466f1c4-6954-41cb-b131-963cee1a5600">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.IsNotNull failed. </Message>
+          <StackTrace>   at BaseballCardsMVC.Tests.UnitTest1.TestMethod1() in C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\UnitTest1.cs:line 71
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

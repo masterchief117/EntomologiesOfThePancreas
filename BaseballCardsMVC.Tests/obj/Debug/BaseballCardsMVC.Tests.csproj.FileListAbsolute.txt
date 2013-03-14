@@ -15,17 +15,7 @@ C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.WebPages.dll
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.WebPages.Razor.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\EntityFramework.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Web.Optimization.dll
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\Microsoft.Web.WebPages.OAuth.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.AspNet.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebGrease.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.Core.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.Consumer.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OAuth.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.RelyingParty.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\DotNetOpenAuth.OpenId.dll
-C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\Antlr3.Runtime.dll
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\BaseballCardsMVC.pdb
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\System.Net.Http.xml
@@ -50,3 +40,7 @@ C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\obj\Debug\BaseballCardsMVC.Tests.dll
 C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\obj\Debug\BaseballCardsMVC.Tests.pdb
+C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebMatrix.Data.dll
+C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebMatrix.WebData.dll
+C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebMatrix.Data.xml
+C:\Users\pwroe\Documents\GitHub\EntomologiesOfThePancreas\BaseballCardsMVC.Tests\bin\Debug\WebMatrix.WebData.xml
